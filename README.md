@@ -87,6 +87,8 @@ https://medium.com/applied-data-science/the-full-stack-data-scientist-part-1-pro
 # Pandas
 https://tomaugspurger.github.io/
 
+http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
+
 # CNNs
 http://cs231n.stanford.edu/
 
