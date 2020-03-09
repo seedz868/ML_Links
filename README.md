@@ -84,3 +84,9 @@ stack-data-scientist-myth-unicorn-or-new-normal/+&cd=12&hl=en&ct=clnk&gl=ca
 
 https://medium.com/applied-data-science/the-full-stack-data-scientist-part-1-productionise-your-models-with-django-apis-7799b893ce7c
 
+# Pandas
+https://tomaugspurger.github.io/
+
+# CNNs
+http://cs231n.stanford.edu/
+
