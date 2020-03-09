@@ -74,8 +74,13 @@ https://towardsdatascience.com/get-started-with-using-cnn-lstm-for-forecasting-6
 # Full Stack DS Links
 
 https://medium.com/@akiratakezawa/the-golden-path-to-become-a-full-stack-data-scientist-who-is-needed-by-in-real-industry-e865e47e3788
+
 https://medium.com/applied-data-science/new-series-the-full-stack-data-scientist-15791cbef626
+
 https://www.quora.com/What-is-a-full-stack-data-scientist
-https://webcache.googleusercontent.com/search?q=cache:MpO44cLbZmYJ:https://www.forbes.com/sites/cognitiveworld/2019/09/11/the-full-stack-data-scientist-myth-unicorn-or-new-normal/+&cd=12&hl=en&ct=clnk&gl=ca
+
+https://webcache.googleusercontent.com/search?q=cache:MpO44cLbZmYJ:https://www.forbes.com/sites/cognitiveworld/2019/09/11/the-full-
+stack-data-scientist-myth-unicorn-or-new-normal/+&cd=12&hl=en&ct=clnk&gl=ca
+
 https://medium.com/applied-data-science/the-full-stack-data-scientist-part-1-productionise-your-models-with-django-apis-7799b893ce7c
 
