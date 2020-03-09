@@ -85,6 +85,10 @@ stack-data-scientist-myth-unicorn-or-new-normal/+&cd=12&hl=en&ct=clnk&gl=ca
 https://medium.com/applied-data-science/the-full-stack-data-scientist-part-1-productionise-your-models-with-django-apis-7799b893ce7c
 
 # Pandas
+https://www.youtube.com/watch?v=1uVWjdAbgBg
+
+http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
+
 https://tomaugspurger.github.io/
 
 http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
@@ -96,4 +100,13 @@ http://cs231n.stanford.edu/
 https://elitedatascience.com/keras-tutorial-deep-learning-in-python
 
 https://machinelearningmastery.com/use-keras-deep-learning-models-scikit-learn-python/
+
+# Python + GPUs
+https://towardsdatascience.com/python-performance-and-gpus-1be860ffd58d
+
+# Data Prep
+https://www.kdnuggets.com/2019/06/7-steps-mastering-data-preparation-python.html
+
+# Sci Kit Learn
+https://scikit-learn.org/stable/
 
