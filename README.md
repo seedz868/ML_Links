@@ -90,3 +90,8 @@ https://tomaugspurger.github.io/
 # CNNs
 http://cs231n.stanford.edu/
 
+# Keras
+https://elitedatascience.com/keras-tutorial-deep-learning-in-python
+
+https://machinelearningmastery.com/use-keras-deep-learning-models-scikit-learn-python/
+
